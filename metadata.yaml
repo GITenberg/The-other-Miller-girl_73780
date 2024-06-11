@@ -1,0 +1,33 @@
+_repo: The-other-Miller-girl_73780
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Boughton, Beryl
+    gutenberg_agent_id: '57217'
+    url: http://www.gutenberg.org/2009/agents/57217
+creator:
+  author:
+    agent_name: Gray, Joslyn
+    gutenberg_agent_id: '25559'
+    url: http://www.gutenberg.org/2009/agents/25559
+description: ''
+gutenberg_issued: '2024-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73780'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=nyp.33433082548300&view=1up&seq=3
+pgterms:marc905: 20230513141323gray
+pgterms:marc906: '1920'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bChas. Scribners Sons, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The other Miller girl
+url: http://www.gutenberg.org/ebooks/73780
