@@ -5,12 +5,17 @@ contributor:
     agent_name: Boughton, Beryl
     gutenberg_agent_id: '57217'
     url: http://www.gutenberg.org/2009/agents/57217
+covers:
+- cover_type: archival
+  image_path: 73780-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Gray, Joslyn
     gutenberg_agent_id: '25559'
     url: http://www.gutenberg.org/2009/agents/25559
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73780#The-other-Miller-girl
 gutenberg_issued: '2024-06-06'
 gutenberg_type: Text
 identifiers:
